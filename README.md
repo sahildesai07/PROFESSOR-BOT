@@ -73,7 +73,7 @@
 
 ## Deploy to Heroku
 
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
+<a href="https://www.youtube.com/@ultroidofficial"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahildesai07/PROFESSOR-BOT)
 
@@ -115,7 +115,7 @@ broadcast - to broadcast a message to all Eva Maria users
 ```
 
 ## TELAGRAM SUPPORT 
-
+* [![ultroidofficial](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/ultroidofficial)
 * [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
 
 ## Disclaimer
